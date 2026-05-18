@@ -118,3 +118,16 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=ikollecyang-eng&color=00d4ff&style=flat-square)
 
 </div>
+
+.card {
+  border: 1px solid transparent;       /* start invisible */
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  border-color: #3b82f6;               /* border lights up */
+  box-shadow:
+    0 0 12px 2px rgba(59, 130, 246, 0.4),   /* tight inner glow */
+    0 0 40px 6px rgba(59, 130, 246, 0.1);   /* wide soft bloom */
+  transform: translateY(-2px);         /* optional: slight lift */
+}
