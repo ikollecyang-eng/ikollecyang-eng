@@ -118,13 +118,7 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=ikollecyang-eng&color=00d4ff&style=flat-square)
 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikollecyang-eng/ikollecyang-eng/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikollecyang-eng/ikollecyang-eng/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ikollecyang-eng/ikollecyang-eng/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 
 
