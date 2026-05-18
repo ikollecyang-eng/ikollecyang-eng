@@ -42,16 +42,6 @@ me.say_hi()
 
 ---
 
-## 🔬 Research Interests
-
-| Domain | Focus |
-|--------|-------|
-| 🤖 **Machine Learning** | Supervised & Unsupervised Learning, Model Optimization |
-| 🎯 **Reinforcement Learning** | Policy Gradient Methods, Q-Learning, Simulation |
-| 📊 **Data Modeling** | Predictive Analytics, Feature Engineering, Visualization |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -64,6 +54,16 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+---
+
+## 🔬 Research Interests
+
+| Domain | Focus |
+|--------|-------|
+| 🤖 **Machine Learning** | Supervised & Unsupervised Learning, Model Optimization |
+| 🎯 **Reinforcement Learning** | Policy Gradient Methods, Q-Learning, Simulation |
+| 📊 **Data Modeling** | Predictive Analytics, Feature Engineering, Visualization |
 
 ---
 
@@ -118,7 +118,13 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=ikollecyang-eng&color=00d4ff&style=flat-square)
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikollecyang-eng/ikollecyang-eng/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikollecyang-eng/ikollecyang-eng/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ikollecyang-eng/ikollecyang-eng/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
 
 
